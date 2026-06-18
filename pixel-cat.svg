@@ -1,0 +1,63 @@
+<svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- Left Ear -->
+  <rect x="277" y="127" width="53" height="53" fill="#000000"/>
+  <rect x="330" y="127" width="53" height="53" fill="#000000"/>
+  <rect x="383" y="127" width="53" height="53" fill="#000000"/>
+  <rect x="383" y="180" width="53" height="53" fill="#4a2a3a"/>
+  <rect x="330" y="180" width="53" height="53" fill="#4a2a3a"/>
+  
+  <!-- Right Ear -->
+  <rect x="611" y="127" width="53" height="53" fill="#000000"/>
+  <rect x="664" y="127" width="53" height="53" fill="#000000"/>
+  <rect x="717" y="127" width="53" height="53" fill="#000000"/>
+  <rect x="611" y="180" width="53" height="53" fill="#4a2a3a"/>
+  <rect x="664" y="180" width="53" height="53" fill="#4a2a3a"/>
+  
+  <!-- Head -->
+  <rect x="277" y="233" width="476" height="370" fill="#000000"/>
+  
+  <!-- Left Eye -->
+  <rect x="394" y="423" width="53" height="53" fill="#ff1493"/>
+  <rect x="447" y="423" width="53" height="53" fill="#ff1493"/>
+  <rect x="394" y="476" width="53" height="53" fill="#ff1493"/>
+  <rect x="447" y="476" width="53" height="53" fill="#ff1493"/>
+  <rect x="447" y="423" width="27" height="27" fill="#ffffff"/>
+  
+  <!-- Right Eye -->
+  <rect x="583" y="423" width="53" height="53" fill="#ff1493"/>
+  <rect x="636" y="423" width="53" height="53" fill="#ff1493"/>
+  <rect x="583" y="476" width="53" height="53" fill="#ff1493"/>
+  <rect x="636" y="476" width="53" height="53" fill="#ff1493"/>
+  <rect x="636" y="423" width="27" height="27" fill="#ffffff"/>
+  
+  <!-- Nose -->
+  <rect x="512" y="550" width="27" height="27" fill="#4a2a3a"/>
+  
+  <!-- Mouth -->
+  <rect x="447" y="603" width="27" height="27" fill="#4a2a3a"/>
+  <rect x="500" y="603" width="27" height="27" fill="#4a2a3a"/>
+  <rect x="553" y="603" width="27" height="27" fill="#4a2a3a"/>
+  
+  <!-- Body -->
+  <rect x="330" y="603" width="370" height="423" fill="#000000"/>
+  
+  <!-- Left Front Paw -->
+  <rect x="277" y="810" width="53" height="53" fill="#000000"/>
+  <rect x="277" y="863" width="53" height="53" fill="#000000"/>
+  
+  <!-- Right Front Paw -->
+  <rect x="719" y="810" width="53" height="53" fill="#000000"/>
+  <rect x="719" y="863" width="53" height="53" fill="#000000"/>
+  
+  <!-- Tail -->
+  <rect x="777" y="810" width="53" height="53" fill="#000000"/>
+  <rect x="830" y="810" width="53" height="53" fill="#000000"/>
+  
+  <!-- Whiskers Left -->
+  <rect x="212" y="656" width="53" height="27" fill="#000000"/>
+  <rect x="212" y="709" width="53" height="27" fill="#000000"/>
+  
+  <!-- Whiskers Right -->
+  <rect x="859" y="656" width="53" height="27" fill="#000000"/>
+  <rect x="859" y="709" width="53" height="27" fill="#000000"/>
+</svg>
